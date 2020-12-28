@@ -1,3 +1,7 @@
 # Personal_HTML_Design_Project
 
-This is a design project using HTML and CSS to design a website that is interesting and has design and color aspects that can become fun to try. This is a fansite that is a fictional wesite based off a fictional movie website.
+This is opened with a basic project programs
+This is a static site.
+
+This is a design website using HTML and CSS to design an apealing site that is interesting and has designing and color aspects that can become fun to try and test out. This is a fan site that is a fictional wesite based off a fictional movie website.
+This is just a quick demo to an idea.
