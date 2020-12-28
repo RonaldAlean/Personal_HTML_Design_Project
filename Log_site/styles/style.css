@@ -1,0 +1,59 @@
+h4{
+
+}
+*{
+
+}
+body{
+    background-color: cadetblue;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black;
+    opacity: 1; /* Firefox */
+    text-transform: uppercase;
+  }
+
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: black;
+    text-transform: uppercase;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: black;
+    text-transform: uppercase;
+  }
+#pass_enter{
+    text-transform: uppercase;
+    line-height: 2em;
+
+    font-size: 2em;
+    font-family: sans-serif;
+    /*Sporty-Pro-Bold-Xp*/
+    letter-spacing: 1em;
+
+    background-color: chocolate;
+    display: inline-block;
+    /*text-align: center;*/
+    text-align: left;
+    font-weight: bold;
+    padding-left: 35%;
+
+    clear: left;
+    clear: both;
+    width: 100%;
+    position: absolute;
+    top: 47%;
+    left: 0%;
+
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    outline:none;
+}
+#pass_enter{
+    outline:none;
+}
+#submit_button{
+    visibility: hidden;
+}
